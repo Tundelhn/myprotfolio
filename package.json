@@ -1,0 +1,23 @@
+{
+    "name": "muport",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "dependencies": {
+        "gh-pages": "^2.2.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tundelhn/myprotfolio.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Tundelhn/myprotfolio/issues"
+    },
+    "homepage": "https://github.com/Tundelhn/myprotfolio"
+}
